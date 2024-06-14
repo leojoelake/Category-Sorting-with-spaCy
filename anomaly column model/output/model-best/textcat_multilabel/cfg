@@ -1,0 +1,7 @@
+{
+  "labels":[
+    "runtime",
+    "variance"
+  ],
+  "threshold":0.5
+}

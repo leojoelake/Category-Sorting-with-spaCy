@@ -1,0 +1,8 @@
+{
+  "labels":[
+    "low",
+    "moderate",
+    "high"
+  ],
+  "threshold":0.66
+}

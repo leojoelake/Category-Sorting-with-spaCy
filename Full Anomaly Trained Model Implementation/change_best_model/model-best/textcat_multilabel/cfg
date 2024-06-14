@@ -1,0 +1,8 @@
+{
+  "labels":[
+    "increase",
+    "decrease",
+    "erratic"
+  ],
+  "threshold":0.66
+}

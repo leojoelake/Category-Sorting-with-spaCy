@@ -1,8 +1,0 @@
-1. get to the correct file directory
-	cd folder directory
-
-2. fill the config.cfg file
-    python -m spacy init fill-config ./base_config.cfg ./config.cfg
-
-3. once in the directory run the model to train
-	python -m spacy train config.cfg --output ./output

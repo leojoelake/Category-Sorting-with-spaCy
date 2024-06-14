@@ -1,0 +1,5 @@
+1. get to the correct file directory
+	cd folder directory
+
+2. once in the directory run the model to train
+	python -m spacy train config.cfg --output ./output
